@@ -13,7 +13,7 @@
 
 
 <!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+There+👋,+I+Am+Mohamed+Yusuf+Welcome+To+My+Profile!;Programming+Experience;Always+Learning+New+Things+;Cyber+Security+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+There+👋;+I+Am+Mohamed+Yusuf+Welcome+To+My+Profile!;Programming+Experience;Always+Learning+New+Things+;Cyber+Security+Enthusiast)](https://git.io/typing-svg)
 
 
 -->
